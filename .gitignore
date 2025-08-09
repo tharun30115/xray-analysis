@@ -1,0 +1,11 @@
+build/
+COVIDGR_1.0/
+data/
+venv/
+dist/
+
+#models
+model-v1.h5
+model-v2.h5
+
+*.spec

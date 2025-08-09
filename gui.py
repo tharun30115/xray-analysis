@@ -61,10 +61,10 @@ def reset_img_box():
     img_box.plus_label = plus_label
 
 def open_github(event=None):
-    webbrowser.open_new("https://github.com/your-github-url")  # Update with your repo!
+    webbrowser.open_new("https://github.com/tharun30115/xray-analysis")  
 
 def open_docs(event=None):
-    webbrowser.open_new("https://your-docs-url")  # Update with your docs!
+    webbrowser.open_new("https://your-docs-url") 
 
 def mono(size, weight):
     return ("JetBrains Mono", size, weight)

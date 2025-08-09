@@ -25,6 +25,15 @@ It uses a **TensorFlow/Keras CNN model** trained on the publicly available **COV
 - download the full .zip from the [link](https://github.com).
 - Unzip, run the setup file to download all the requried packages.
 - Make sure you're in the correct folder.
+- Better to use a virtual python env.
+```bash
+python -m venv venv 
+venv\Scripts\activate
+```
+- Install all dependencies
+```bash
+pip install -r setup.txt
+```
 - run the gui.py file 
 ```bash
 python gui.py

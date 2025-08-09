@@ -38,6 +38,7 @@ pip install -r setup.txt
 ```bash
 python gui.py
 ```
+---
 
 ## Map
 - A publically available **COVIDGR_1.0** was used to build and train this model, the data was slpit into training sets and validation sets.
@@ -47,5 +48,11 @@ python gui.py
 - Gui was built using tkinter.
 - Thats all for now, cya (dont forget to star the repo!!).
 
+---
+
 ## Images>
-![UI](assets/s1.png)
+![alt](assets/s1.png)
+![alt](assets/s2.png)
+![alt](assets/s3.png)
+![alt](assets/s4.png)
+---

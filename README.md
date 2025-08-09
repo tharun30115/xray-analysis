@@ -46,3 +46,6 @@ python gui.py
 - Tensorflow and keras was used to train the model.
 - Gui was built using tkinter.
 - Thats all for now, cya (dont forget to star the repo!!).
+
+## Images>
+[UI](assets/s1.png)

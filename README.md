@@ -48,4 +48,4 @@ python gui.py
 - Thats all for now, cya (dont forget to star the repo!!).
 
 ## Images>
-[UI](assets/s1.png)
+![UI](assets/s1.png)

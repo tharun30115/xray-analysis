@@ -22,7 +22,7 @@ It uses a **TensorFlow/Keras CNN model** trained on the publicly available **COV
 ---
 
 ## To test it:
-- download the full .zip from the [link](https://github.com).
+- Download the full .zip from the [link](https://github.com).
 - Unzip, run the setup file to download all the requried packages.
 - Make sure you're in the correct folder.
 - Better to use a virtual python env.
@@ -34,7 +34,7 @@ venv\Scripts\activate
 ```bash
 pip install -r setup.txt
 ```
-- run the gui.py file 
+- Run the gui.py file 
 ```bash
 python gui.py
 ```
@@ -44,5 +44,5 @@ python gui.py
 - First training was for 50 Epochs which produced a model **model-v1** which had 60% accuracy with real world data.
 - Second training was for 100 Epochs which produced a model **model-v2** which has 90% + accuracy with real world data.
 - Tensorflow and keras was used to train the model.
-- gui was built using tkinter.
+- Gui was built using tkinter.
 - Thats all for now, cya (dont forget to star the repo!!).

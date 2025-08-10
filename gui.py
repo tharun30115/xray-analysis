@@ -6,7 +6,7 @@ import tensorflow as tf
 import os
 import webbrowser
 
-MODEL_PATH = "model-v2.h5"
+MODEL_PATH = "model-v3.h5"
 model = tf.keras.models.load_model(MODEL_PATH)
 train_dir = "data/train"
 class_labels = sorted(os.listdir(train_dir))

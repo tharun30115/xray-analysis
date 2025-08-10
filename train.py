@@ -23,7 +23,7 @@ val_dir = "data/val"
 # Parameters
 IMG_SIZE = 224
 BATCH_SIZE = 32
-EPOCHS = 100
+EPOCHS = 200
 NUM_CLASSES = len(os.listdir(train_dir))
 
 # Data generators (grayscale)
@@ -77,5 +77,5 @@ history = model.fit(
 )
 
 # Save model
-model.save("model-v2.h5")
+model.save("model-v3.h5")
 print("✅ Model saved as model-v2.h5")

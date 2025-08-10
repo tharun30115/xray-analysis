@@ -22,7 +22,7 @@ It uses a **TensorFlow/Keras CNN model** trained on the publicly available **COV
 ---
 
 ## To test it:
-- Download the full .zip from the [link](hhttps://www.mediafire.com/file/con3f5xu0r718pf/digital-analysis-XRays.zip/file).
+- Download the full .zip from the [link](https://www.mediafire.com/file/con3f5xu0r718pf/digital-analysis-XRays.zip/file).
 - Unzip the archive.
 - Make sure you're in the correct folder.
 - Better to use a virtual python env.
